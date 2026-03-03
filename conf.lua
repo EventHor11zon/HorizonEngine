@@ -1,0 +1,5 @@
+
+
+function love.conf()
+
+end
